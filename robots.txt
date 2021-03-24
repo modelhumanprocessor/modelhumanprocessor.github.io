@@ -1,0 +1,4 @@
+Sitemap: https://www.modelhumanprocessor.com/sitemapindex.xml
+
+User-Agent: *
+Host: www.modelhumanprocessor.com
