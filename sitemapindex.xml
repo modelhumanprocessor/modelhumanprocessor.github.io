@@ -14,12 +14,24 @@
   <lastmod>2021-03-25T06:07:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.modelhumanprocessor.com/categories/cat_gamereview.xml</loc>
+  <lastmod>2021-03-27T04:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/cat_gamereviews.xml</loc>
-  <lastmod>2021-03-25T17:07:00Z</lastmod>
+  <lastmod>2021-03-25T18:19:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.modelhumanprocessor.com/categories/ds.xml</loc>
+  <lastmod>2021-03-25T18:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/gamecube.xml</loc>
   <lastmod>2021-03-25T17:07:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.modelhumanprocessor.com/categories/gba.xml</loc>
+  <lastmod>2021-03-27T04:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/nes.xml</loc>
@@ -31,11 +43,15 @@
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/review.xml</loc>
-  <lastmod>2021-03-25T17:07:00Z</lastmod>
+  <lastmod>2021-03-27T04:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/video-game.xml</loc>
-  <lastmod>2021-03-25T17:07:00Z</lastmod>
+  <lastmod>2021-03-27T04:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.modelhumanprocessor.com/categories/video-games.xml</loc>
+  <lastmod>2021-03-25T18:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/wii.xml</loc>
@@ -47,10 +63,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/rss.xml</loc>
-  <lastmod>2021-03-25T17:07:00Z</lastmod>
+  <lastmod>2021-03-27T04:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/sitemap.xml</loc>
-  <lastmod>2021-03-25T17:29:00Z</lastmod>
+  <lastmod>2021-03-27T04:00:00Z</lastmod>
  </sitemap>
 </sitemapindex>

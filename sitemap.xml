@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.modelhumanprocessor.com/</loc>
-  <lastmod>2021-03-23T18:08:00Z</lastmod>
+  <lastmod>2021-03-25T18:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/2021/</loc>
@@ -15,11 +15,11 @@
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/archive.html</loc>
-  <lastmod>2021-03-25T17:02:00Z</lastmod>
+  <lastmod>2021-03-27T03:48:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/categories/</loc>
-  <lastmod>2021-03-25T17:29:00Z</lastmod>
+  <lastmod>2021-03-27T04:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/categories/blog/</loc>
@@ -30,12 +30,24 @@
   <lastmod>2021-03-23T18:08:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.modelhumanprocessor.com/categories/cat_gamereview/</loc>
+  <lastmod>2021-03-27T04:00:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.modelhumanprocessor.com/categories/cat_gamereviews/</loc>
   <lastmod>2021-03-25T15:07:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.modelhumanprocessor.com/categories/ds/</loc>
+  <lastmod>2021-03-25T18:10:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.modelhumanprocessor.com/categories/gamecube/</loc>
   <lastmod>2021-03-25T17:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/categories/gba/</loc>
+  <lastmod>2021-03-27T04:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/categories/nes/</loc>
@@ -54,12 +66,20 @@
   <lastmod>2021-03-25T15:25:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.modelhumanprocessor.com/categories/video-games/</loc>
+  <lastmod>2021-03-25T18:10:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.modelhumanprocessor.com/categories/wii/</loc>
   <lastmod>2021-03-25T16:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/galleries/</loc>
   <lastmod>2021-03-23T18:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/index-1.html</loc>
+  <lastmod>2021-03-27T03:48:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/listings/</loc>
@@ -78,6 +98,10 @@
   <lastmod>2021-03-25T15:26:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.modelhumanprocessor.com/posts/final-fantasy-originsff1-ff2/</loc>
+  <lastmod>2021-03-27T03:48:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.modelhumanprocessor.com/posts/finding-a-web-host/</loc>
   <lastmod>2021-03-24T15:43:00Z</lastmod>
  </url>
@@ -92,6 +116,14 @@
  <url>
   <loc>https://www.modelhumanprocessor.com/posts/pikmin-and-pikmin-2/</loc>
   <lastmod>2021-03-25T17:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/posts/rhapsody-a-musical-adventure/</loc>
+  <lastmod>2021-03-25T18:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/posts/super-mario-64-ds/</loc>
+  <lastmod>2021-03-25T18:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/posts/the-legend-of-zelda/</loc>
