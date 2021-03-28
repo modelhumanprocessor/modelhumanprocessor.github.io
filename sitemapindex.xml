@@ -19,11 +19,11 @@
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/cat_gamereviews.xml</loc>
-  <lastmod>2021-03-25T18:19:00Z</lastmod>
+  <lastmod>2021-03-28T01:18:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/ds.xml</loc>
-  <lastmod>2021-03-25T18:19:00Z</lastmod>
+  <lastmod>2021-03-28T01:18:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/gamecube.xml</loc>
@@ -31,7 +31,11 @@
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/gba.xml</loc>
-  <lastmod>2021-03-27T04:00:00Z</lastmod>
+  <lastmod>2021-03-27T23:55:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.modelhumanprocessor.com/categories/mmorpg.xml</loc>
+  <lastmod>2021-03-28T01:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/nes.xml</loc>
@@ -42,20 +46,28 @@
   <lastmod>2021-03-25T16:02:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.modelhumanprocessor.com/categories/pc.xml</loc>
+  <lastmod>2021-03-28T01:10:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/review.xml</loc>
-  <lastmod>2021-03-27T04:00:00Z</lastmod>
+  <lastmod>2021-03-28T01:18:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/video-game.xml</loc>
-  <lastmod>2021-03-27T04:00:00Z</lastmod>
+  <lastmod>2021-03-28T01:18:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/video-games.xml</loc>
-  <lastmod>2021-03-25T18:10:00Z</lastmod>
+  <lastmod>2021-03-28T00:47:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.modelhumanprocessor.com/categories/vidgeo-game.xml</loc>
+  <lastmod>2021-03-27T20:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/wii.xml</loc>
-  <lastmod>2021-03-25T16:02:00Z</lastmod>
+  <lastmod>2021-03-27T23:58:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/galleries/rss.xml</loc>
@@ -63,10 +75,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/rss.xml</loc>
-  <lastmod>2021-03-27T04:00:00Z</lastmod>
+  <lastmod>2021-03-28T01:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/sitemap.xml</loc>
-  <lastmod>2021-03-27T04:00:00Z</lastmod>
+  <lastmod>2021-03-28T01:19:00Z</lastmod>
  </sitemap>
 </sitemapindex>

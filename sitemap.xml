@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.modelhumanprocessor.com/</loc>
-  <lastmod>2021-03-25T18:00:00Z</lastmod>
+  <lastmod>2021-03-28T00:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/2021/</loc>
@@ -15,11 +15,11 @@
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/archive.html</loc>
-  <lastmod>2021-03-27T03:48:00Z</lastmod>
+  <lastmod>2021-03-28T01:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/categories/</loc>
-  <lastmod>2021-03-27T04:00:00Z</lastmod>
+  <lastmod>2021-03-28T01:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/categories/blog/</loc>
@@ -50,12 +50,20 @@
   <lastmod>2021-03-27T04:00:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.modelhumanprocessor.com/categories/mmorpg/</loc>
+  <lastmod>2021-03-28T01:10:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.modelhumanprocessor.com/categories/nes/</loc>
   <lastmod>2021-03-25T16:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/categories/nintendo/</loc>
   <lastmod>2021-03-25T16:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/categories/pc/</loc>
+  <lastmod>2021-03-28T01:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/categories/review/</loc>
@@ -70,6 +78,10 @@
   <lastmod>2021-03-25T18:10:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.modelhumanprocessor.com/categories/vidgeo-game/</loc>
+  <lastmod>2021-03-27T20:34:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.modelhumanprocessor.com/categories/wii/</loc>
   <lastmod>2021-03-25T16:02:00Z</lastmod>
  </url>
@@ -79,7 +91,11 @@
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/index-1.html</loc>
-  <lastmod>2021-03-27T03:48:00Z</lastmod>
+  <lastmod>2021-03-28T00:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/index-2.html</loc>
+  <lastmod>2021-03-28T01:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/listings/</loc>
@@ -90,12 +106,40 @@
   <lastmod>2021-03-25T15:09:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.modelhumanprocessor.com/posts/blade-and-soulastromancer-patch/</loc>
+  <lastmod>2021-03-28T01:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/posts/castlevania-harmony-of-dissonance/</loc>
+  <lastmod>2021-03-27T20:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/posts/castlevania-portrait-of-ruin/</loc>
+  <lastmod>2021-03-27T21:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/posts/children-of-manads/</loc>
+  <lastmod>2021-03-27T23:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/posts/chrono-trigger/</loc>
+  <lastmod>2021-03-27T20:35:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.modelhumanprocessor.com/posts/confusing-githubs-custom-domain-feature-with-my-dnss-redirect/</loc>
   <lastmod>2021-03-25T06:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/posts/devil-may-cry-4/</loc>
   <lastmod>2021-03-25T15:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/posts/final-fantasy-iii/</loc>
+  <lastmod>2021-03-27T20:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/posts/final-fantasy-ivds/</loc>
+  <lastmod>2021-03-27T21:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/posts/final-fantasy-originsff1-ff2/</loc>
@@ -110,6 +154,18 @@
   <lastmod>2021-03-25T15:03:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.modelhumanprocessor.com/posts/genshin-impact/</loc>
+  <lastmod>2021-03-28T00:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/posts/honkai-impact-3rd/</loc>
+  <lastmod>2021-03-28T01:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/posts/lost-in-blueds/</loc>
+  <lastmod>2021-03-28T01:10:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.modelhumanprocessor.com/posts/picking-a-blogging-platform/</loc>
   <lastmod>2021-03-23T19:40:00Z</lastmod>
  </url>
@@ -122,8 +178,16 @@
   <lastmod>2021-03-25T18:00:00Z</lastmod>
  </url>
  <url>
+  <loc>https://www.modelhumanprocessor.com/posts/rune-factory-a-fantasy-harvest-moonds/</loc>
+  <lastmod>2021-03-28T00:29:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://www.modelhumanprocessor.com/posts/super-mario-64-ds/</loc>
   <lastmod>2021-03-25T18:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/posts/the-legend-of-zelda-phantom-houseglassds/</loc>
+  <lastmod>2021-03-28T00:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/posts/the-legend-of-zelda/</loc>
