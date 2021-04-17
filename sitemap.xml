@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.modelhumanprocessor.com/</loc>
-  <lastmod>2021-03-28T00:42:00Z</lastmod>
+  <lastmod>2021-04-17T04:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/2021/</loc>
@@ -15,11 +15,11 @@
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/archive.html</loc>
-  <lastmod>2021-04-11T04:55:00Z</lastmod>
+  <lastmod>2021-04-17T04:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/categories/</loc>
-  <lastmod>2021-04-11T05:05:00Z</lastmod>
+  <lastmod>2021-04-17T04:48:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/categories/blog/</loc>
@@ -32,6 +32,10 @@
  <url>
   <loc>https://www.modelhumanprocessor.com/categories/cat_blog/</loc>
   <lastmod>2021-03-23T18:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/categories/cat_book-reviews/</loc>
+  <lastmod>2021-04-17T04:48:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/categories/cat_bookreviews/</loc>
@@ -99,7 +103,11 @@
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/index-2.html</loc>
-  <lastmod>2021-04-11T04:55:00Z</lastmod>
+  <lastmod>2021-04-17T04:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/index-3.html</loc>
+  <lastmod>2021-04-17T04:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/listings/</loc>
@@ -212,6 +220,10 @@
  <url>
   <loc>https://www.modelhumanprocessor.com/posts/the-legend-of-zelda/</loc>
   <lastmod>2021-03-25T16:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/posts/the-sorcerer-king-of-destruction-and-the-golem-of-the-barbarian-queen/</loc>
+  <lastmod>2021-04-17T04:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/posts/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs/</loc>
