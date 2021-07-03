@@ -2,7 +2,7 @@
 .. slug: final-fantasy-iii
 .. date: 2021-03-27 13:21:18 UTC-07:00
 .. tags: video game, review, DS 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Review for Final Fantasy III (DS)
 .. type: text

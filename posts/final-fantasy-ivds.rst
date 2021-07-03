@@ -2,7 +2,7 @@
 .. slug: final-fantasy-ivds
 .. date: 2021-03-27 14:33:09 UTC-07:00
 .. tags: video game, review, DS 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Final Fantasy IV(DS) Review
 .. type: text

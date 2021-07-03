@@ -2,7 +2,7 @@
 .. slug: genshin-impact
 .. date: 2021-03-27 17:47:42 UTC-07:00
 .. tags: video game, review, pc 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Genshin Impact (PC)
 .. type: text

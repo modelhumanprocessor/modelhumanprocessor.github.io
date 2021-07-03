@@ -1,8 +1,8 @@
 .. title: Trapped in a Dating Sim: The world of otome games is tough for mobs
 .. slug: trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs
 .. date: 2021-04-10 21:55:30 UTC-07:00
-.. tags: light novel, book review, 
-.. category: bookreviews
+.. tags: light novel, review, 
+.. category: book reviews
 .. link: 
 .. description: Review for a long titled LN volume 1
 .. type: text

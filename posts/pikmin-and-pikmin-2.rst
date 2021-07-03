@@ -2,7 +2,7 @@
 .. slug: pikmin-and-pikmin-2
 .. date: 2021-03-25 10:02:13 UTC-07:00
 .. tags: video game, review, gamecube 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Pikmin and Pikmin 2 for GameCube review
 .. type: text

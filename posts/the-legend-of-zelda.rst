@@ -2,7 +2,7 @@
 .. slug: the-legend-of-zelda
 .. date: 2021-03-25 09:02:27 UTC-07:00
 .. tags: video game, review, NES, 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: The Legend of Zelda for the NES
 .. type: text

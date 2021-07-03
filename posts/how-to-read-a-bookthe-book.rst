@@ -1,7 +1,7 @@
 .. title: How to Read a Book(the book)
 .. slug: how-to-read-a-bookthe-book
 .. date: 2021-05-15 22:06:00 UTC-07:00
-.. tags: bookreview 
+.. tags: review 
 .. category: book reviews
 .. link: 
 .. description: Review of 'How to Read a Book' by Adler & Doren

@@ -2,7 +2,7 @@
 .. slug: rune-factory-a-fantasy-harvest-moonds
 .. date: 2021-03-27 17:29:25 UTC-07:00
 .. tags: video game, review, DS 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Rune Factory(DS) Review
 .. type: text

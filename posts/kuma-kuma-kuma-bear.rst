@@ -2,7 +2,7 @@
 .. slug: kuma-kuma-kuma-bear
 .. date: 2021-04-01 10:21:50 UTC-07:00
 .. tags: light novel, review,
-.. category: light novels
+.. category: book reviews
 .. link: 
 .. description: Kuma Kuma Kuma Bear LN Review
 .. type: text

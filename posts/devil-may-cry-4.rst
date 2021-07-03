@@ -2,7 +2,7 @@
 .. slug: devil-may-cry-4
 .. date: 2021-03-25 08:26:44 UTC-07:00
 .. tags: video game, review 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Devil May Cry for the Xbox360 Review
 .. type: text

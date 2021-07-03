@@ -2,7 +2,7 @@
 .. slug: rhapsody-a-musical-adventure
 .. date: 2021-03-25 11:00:35 UTC-07:00
 .. tags: video game, review, DS 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Review of Rhapsody for Nintendo DS
 .. type: text

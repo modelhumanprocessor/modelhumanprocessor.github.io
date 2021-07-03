@@ -2,7 +2,7 @@
 .. slug: the-legend-of-zelda-phantom-houseglassds
 .. date: 2021-03-27 17:42:00 UTC-07:00
 .. tags: video game, DS, review 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: The Legend of Zelda the Phantom Hourglass Review
 .. type: text

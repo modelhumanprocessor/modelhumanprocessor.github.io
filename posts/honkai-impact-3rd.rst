@@ -2,7 +2,7 @@
 .. slug: honkai-impact-3rd
 .. date: 2021-03-27 18:19:15 UTC-07:00
 .. tags: video game, review, pc 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Honkai Impact 3rd (PC) Review
 .. type: text

@@ -2,7 +2,7 @@
 .. slug: game-reviews
 .. date: 2021-03-25 08:03:07 UTC-07:00
 .. tags: video game, review
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Including game reviews here
 .. type: text

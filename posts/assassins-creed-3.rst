@@ -2,7 +2,7 @@
 .. slug: assassins-creed-3
 .. date: 2021-03-25 08:09:07 UTC-07:00
 .. tags: video game, review 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Review and Impressions of AC3 for XBox 360
 .. type: text

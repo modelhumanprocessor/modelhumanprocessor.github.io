@@ -2,7 +2,7 @@
 .. slug: zack-and-wiki
 .. date: 2021-03-25 08:52:53 UTC-07:00
 .. tags: review, video game, wii
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Zack and Wiki for Nintendo Wii review
 .. type: text
