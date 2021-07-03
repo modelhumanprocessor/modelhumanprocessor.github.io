@@ -2,7 +2,7 @@
 .. slug: castlevania-portrait-of-ruin
 .. date: 2021-03-27 14:15:31 UTC-07:00
 .. tags: video game, review, DS 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Castlevania Portrait of Ruin(DS) Review
 .. type: text

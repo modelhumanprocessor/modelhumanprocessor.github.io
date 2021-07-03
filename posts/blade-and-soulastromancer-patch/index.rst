@@ -2,7 +2,7 @@
 .. slug: blade-and-soulastromancer-patch
 .. date: 2021-03-27 18:02:32 UTC-07:00
 .. tags: video game, review, pc, mmorpg 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Blade and Soul Review(Astromancer patch)
 .. type: text

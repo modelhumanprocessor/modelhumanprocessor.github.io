@@ -2,7 +2,7 @@
 .. slug: chrono-trigger
 .. date: 2021-03-27 13:34:59 UTC-07:00
 .. tags: video game, review, DS 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Chrono Trigger (DS) Review
 .. type: text

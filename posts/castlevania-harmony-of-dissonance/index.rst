@@ -2,7 +2,7 @@
 .. slug: castlevania-harmony-of-dissonance
 .. date: 2021-03-27 13:47:50 UTC-07:00
 .. tags: video game, review, gba 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Castlevania Harmony of Dissonance (GBA) review
 .. type: text

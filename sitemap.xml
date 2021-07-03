@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.modelhumanprocessor.com/</loc>
-  <lastmod>2021-04-17T04:38:00Z</lastmod>
+  <lastmod>2021-07-03T03:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/2021/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/archive.html</loc>
-  <lastmod>2021-07-03T03:06:00Z</lastmod>
+  <lastmod>2021-07-03T03:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/categories/</loc>
@@ -115,15 +115,19 @@
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/index-1.html</loc>
-  <lastmod>2021-04-10T05:23:00Z</lastmod>
+  <lastmod>2021-07-03T03:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/index-2.html</loc>
-  <lastmod>2021-04-17T04:38:00Z</lastmod>
+  <lastmod>2021-07-03T03:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/index-3.html</loc>
-  <lastmod>2021-07-03T03:06:00Z</lastmod>
+  <lastmod>2021-07-03T03:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/index-4.html</loc>
+  <lastmod>2021-07-03T03:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/listings/</loc>
@@ -256,6 +260,10 @@
  <url>
   <loc>https://www.modelhumanprocessor.com/posts/super-mario-64-ds/</loc>
   <lastmod>2021-03-25T18:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.modelhumanprocessor.com/posts/tag-and-category-cleanup/</loc>
+  <lastmod>2021-07-03T03:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.modelhumanprocessor.com/posts/thats-it-for-game-reviews/</loc>

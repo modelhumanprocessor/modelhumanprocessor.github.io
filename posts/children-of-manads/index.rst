@@ -2,7 +2,7 @@
 .. slug: children-of-manads
 .. date: 2021-03-27 16:47:26 UTC-07:00
 .. tags: video game, review, DS 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Children of Mana(DS) Review
 .. type: text

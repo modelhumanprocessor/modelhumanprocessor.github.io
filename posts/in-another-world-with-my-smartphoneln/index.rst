@@ -2,7 +2,7 @@
 .. slug: in-another-world-with-my-smartphoneln
 .. date: 2021-04-02 10:02:51 UTC-07:00
 .. tags: light novel, review, isekai 
-.. category: bookreviews
+.. category: book reviews
 .. link: 
 .. description: In Another World With My Smartphone(LN) Review
 .. type: text

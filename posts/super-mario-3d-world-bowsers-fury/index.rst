@@ -1,7 +1,7 @@
 .. title: Super Mario 3D World & Bowser's Fury
 .. slug: super-mario-3d-world-bowsers-fury
 .. date: 2021-06-05 20:29:46 UTC-07:00
-.. tags: game review, switch,  
+.. tags: review, switch,  
 .. category: game reviews
 .. link: 
 .. description: Review for SM3D world and bowser's fury for Nintendo Switch

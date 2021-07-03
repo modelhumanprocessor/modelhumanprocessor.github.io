@@ -2,7 +2,7 @@
 .. slug: final-fantasy-originsff1-ff2
 .. date: 2021-03-26 20:48:32 UTC-07:00
 .. tags: video game, gba, review 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Review for FF1 & FF2 gba version
 .. type: text

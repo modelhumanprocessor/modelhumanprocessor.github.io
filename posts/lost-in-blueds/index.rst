@@ -2,7 +2,7 @@
 .. slug: lost-in-blueds
 .. date: 2021-03-27 18:10:07 UTC-07:00
 .. tags: video game, DS, review 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Lost in Blue(DS) Review
 .. type: text

@@ -2,7 +2,7 @@
 .. slug: super-mario-64-ds
 .. date: 2021-03-25 11:10:58 UTC-07:00
 .. tags: video game, review, DS 
-.. category: gamereviews
+.. category: game reviews
 .. link: 
 .. description: Super Mario 64 for the Nintendo DS
 .. type: text
