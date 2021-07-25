@@ -7,47 +7,23 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/blog.xml</loc>
-  <lastmod>2021-04-10T05:36:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.modelhumanprocessor.com/categories/book-review.xml</loc>
-  <lastmod>2021-07-03T03:19:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.modelhumanprocessor.com/categories/bookreview.xml</loc>
-  <lastmod>2021-05-16T05:13:00Z</lastmod>
+  <lastmod>2021-07-03T03:28:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/cat_blog.xml</loc>
-  <lastmod>2021-04-10T05:36:00Z</lastmod>
+  <lastmod>2021-07-03T03:28:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/cat_book-reviews.xml</loc>
-  <lastmod>2021-07-03T03:25:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.modelhumanprocessor.com/categories/cat_bookreviews.xml</loc>
-  <lastmod>2021-07-03T03:19:00Z</lastmod>
+  <lastmod>2021-07-25T02:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/cat_game-reviews.xml</loc>
   <lastmod>2021-07-03T03:25:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://www.modelhumanprocessor.com/categories/cat_gamereviews.xml</loc>
-  <lastmod>2021-07-03T03:23:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.modelhumanprocessor.com/categories/cat_light-novels.xml</loc>
-  <lastmod>2021-04-01T23:41:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/ds.xml</loc>
   <lastmod>2021-07-03T03:23:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://www.modelhumanprocessor.com/categories/game-review.xml</loc>
-  <lastmod>2021-06-06T03:41:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/gamecube.xml</loc>
@@ -78,6 +54,10 @@
   <lastmod>2021-07-03T03:22:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://www.modelhumanprocessor.com/categories/philosophy.xml</loc>
+  <lastmod>2021-07-25T02:40:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://www.modelhumanprocessor.com/categories/review.xml</loc>
   <lastmod>2021-07-03T03:25:00Z</lastmod>
  </sitemap>
@@ -99,10 +79,10 @@
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/rss.xml</loc>
-  <lastmod>2021-07-03T03:26:00Z</lastmod>
+  <lastmod>2021-07-25T02:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.modelhumanprocessor.com/sitemap.xml</loc>
-  <lastmod>2021-07-03T03:26:00Z</lastmod>
+  <lastmod>2021-07-25T02:40:00Z</lastmod>
  </sitemap>
 </sitemapindex>
